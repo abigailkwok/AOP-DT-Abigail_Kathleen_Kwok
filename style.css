@@ -52,7 +52,7 @@ font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     100% {color:lightpink;}
 }
 
-.header h3 {
+.header h2 {
     margin-top: 5px;
     margin-bottom: 1px;
 }
@@ -124,3 +124,4 @@ p {
 font-size : 75%;
 
 }
+
